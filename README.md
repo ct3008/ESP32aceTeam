@@ -3,7 +3,7 @@ SpaceTeam for ESP32s
 
 Olivia Bobrownicki, Kevin Medina, Claudia Tang, Alice Wang
 
-See [a blog post with creative documentation HERE.]([https://sticky-output-0e7.notion.site/Creative-Embedded-Systems-4e2fbc2a42464a11849eb1d6c295cb5a?pvs=4](https://www.notion.so/Lost-in-Space-3715259887e64b67840b59765ff09e9a?pvs=4))
+See [a blog post with creative documentation HERE.](https://sticky-output-0e7.notion.site/Creative-Embedded-Systems-4e2fbc2a42464a11849eb1d6c295cb5a?pvs=4)
 
 code in espaceteamDone.ino
 
